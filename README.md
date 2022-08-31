@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isaaclangit
 - 👀 I’m interested in data 
 - 🌱 I’m currently learning business data analyst and data scientist
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on business data project
 - 📫 How to reach me, email me on isaaclangit1@gmail.com
 
 <!---
