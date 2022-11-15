@@ -14,12 +14,12 @@
 
 ## Work Experience
 #### 1. [CV. Jagadhita Lestari Nusantara](https://polyasta.com) | Co-Founder | Klaten `Jan'2022 - Now`
-    - 
+   - 
 #### 2. [Bahusastera](https://instagram.com/bahusastera) | Operations Manager | Yogyakarta `2018 - 2022`
-    - 
+   - 
 #### 3. [Telkom Indonesia](https://telkom.co.id) | UI/UX Designer | Bandung `2021`
-    - Conducted research using survey and interviews with users, collaborate with stakeholders and colleagues to defining business solution.
-    - Contributed to creating user interface design for web applications based on research in user needs (Figma, Adobe).
+   - Conducted research using survey and interviews with users, collaborate with stakeholders and colleagues to defining business solution.
+   - Contributed to creating user interface design for web applications based on research in user needs (Figma, Adobe).
 <!---
 isaaclangit/isaaclangit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
