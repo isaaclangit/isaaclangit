@@ -14,9 +14,24 @@
 
 ## Work Experience
 #### 1. [CV. Jagadhita Lestari Nusantara](https://polyasta.com) | Co-Founder | Klaten `Jan'2022 - Now`
-   - 
+   - Contributed in collecting the data of plastic bottle waste distribution, garbage dumb, and collection center around Klaten area, identified
+and mapped several suppliers.
+   - Build relationships and collaborate with local suppliers, garbage collectors, and scavengers to collect bottle plastic waste.
+   - Conducted analysis by comparing and identifying common variables (e.g. prices of raw materials, distance, shipping cost) to increase
+production efficiency.
+   - Responsible for managed company’s information system, designed company profile [website](https://polyasta.com) for marketing in order to sell and export
+recycled rPET products. Used analytics to evaluate company’s website and made content based on newest SEO guidelines and trends.
+**Increased page views by 5%** and converted visitors into customers. (CSS, SEO, HTML)
 #### 2. [Bahusastera](https://instagram.com/bahusastera) | Operations Manager | Yogyakarta `2018 - 2022`
-   - 
+   - Manage business processes and responsible for every processes and operations from basic (design) to end customers. Manage supply
+chain by collaborating with suppliers, vendors, managing inventory, shipping and delivery.\
+   - Contact with people and suppliers from other region, conduct research and analysis in order to defining new materials and technologies
+for new product developments and existing product upgrades.
+   - Conducted **exploratory data analysis** using cost and sales historical data, identified trends and present to stakeholders, defined new
+insights for upcoming products, resulting in a **30% increase in sales**. (Spreadsheet, Microsoft Office, Google Data Studio)
+   - Identified and analyzed customer engagement and behavior, and potential markets to defined marketing strategies, increased accounts
+engaged by **40%**.
+   - Responsible for manage the purchasing contracts with vendor and participate in the negotiation in order to negotiate cost reduction.
 #### 3. [Telkom Indonesia](https://telkom.co.id) | UI/UX Designer | Bandung `2021`
    - Conducted research using survey and interviews with users, collaborate with stakeholders and colleagues to defining business solution.
    - Contributed to creating user interface design for web applications based on research in user needs (Figma, Adobe).
