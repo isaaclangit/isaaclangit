@@ -13,7 +13,7 @@
 #### 3. [Kampus Santa Ursula BSD](https://www.sanurbsd-tng.sch.id) | KDG - JHS | Tangerang `2004-2015`
 
 ## Work Experience
-#### 1. [CV. Jagadhita Lestari Nusantara](https://polyasta.com) | Co-Founder | Klaten `Jan'2022 - Now`
+#### 1. [CV. Jagadhita Lestari Nusantara](https://polyasta.com) | Data Analyst | Klaten `Jan'2022 - Now`
    - Contributed in collecting the data of plastic bottle waste distribution, garbage dumb, and collection center around Klaten area, identified
 and mapped several suppliers.
    - Build relationships and collaborate with local suppliers, garbage collectors, and scavengers to collect bottle plastic waste.
