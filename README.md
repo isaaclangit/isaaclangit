@@ -14,27 +14,23 @@
 
 ## Work Experience
 #### 1. [CV. Jagadhita Lestari Nusantara](https://polyasta.com) | Data Analyst | Klaten `Jan'2022 - Now`
-   - Contributed in collecting the data of plastic bottle waste distribution, garbage dumb, and collection center around Klaten area, identified
-and mapped several suppliers.
-   - Build relationships and collaborate with local suppliers, garbage collectors, and scavengers to collect bottle plastic waste.
-   - Conducted analysis by comparing and identifying common variables (e.g. prices of raw materials, distance, shipping cost) to increase
-production efficiency.
-   - Responsible for managed company’s information system, designed company profile [website](https://polyasta.com) for marketing in order to sell and export
-recycled rPET products. Used analytics to evaluate company’s website and made content based on newest SEO guidelines and trends.
+   - Responsible for collecting the data of PET waste distribution, garbage dump, collection center, and collection partners around Central Java, Indonesia. Conducted **data mining** and developed **visualizations** to identified and mapped suppliers. (Spreadsheet, Microsoft Office).
+   - Built out integrated data pipeline and reporting infrastructure from the ground to provide real-time insights and regular updates (SQL).
+   - Conducted cost and sales analysis, identified trends, utilizing dashboard for operational reporting, presented key findings to stakeholders.
+   - Analyzed and conducted complex data analysis for regional supplier, evaluated the performance of suppliers, and identified new potential supplier to enhance operations, resulted in a **20%** reduction in costs for sourcing and procuring raw materials.
+   - Conducted comprehensive analysis of the ERP system, supply chain, production, inventory management procedures, and transportation process to identified opportunities for continuous improvement, resulted in a **15%** reduction in operating costs.
+   - Developed web-based CRUD (Create Read Update Delete) data entry application using Apps Scripts to speed up data input process.
+   - Collaborated closely with stakeholders and cross-functional team to understand their requirements, assisted in interpreting and leveraging data-driven insights to drive strategic decision-making and provide actionable insights.
 **Increased page views by 5%** and converted visitors into customers. (CSS, SEO, HTML)
 #### 2. [Bahusastera](https://instagram.com/bahusastera) | Operations Manager | Yogyakarta `2018 - 2022`
-   - Manage business processes and responsible for every processes and operations from basic (design) to end customers. Manage supply
-chain by collaborating with suppliers, vendors, managing inventory, shipping and delivery.\
-   - Contact with people and suppliers from other region, conduct research and analysis in order to defining new materials and technologies
-for new product developments and existing product upgrades.
-   - Conducted **exploratory data analysis** using cost and sales historical data, identified trends and present to stakeholders, defined new
-insights for upcoming products, resulting in a **30% increase in sales**. (Spreadsheet, Microsoft Office, Google Data Studio)
-   - Identified and analyzed customer engagement and behavior, and potential markets to defined marketing strategies, increased accounts
-engaged by **40%**.
-   - Responsible for manage the purchasing contracts with vendor and participate in the negotiation in order to negotiate cost reduction.
+   - Conducted **Exploratory Data Analysis** using cost and sales historical data, identified trends and present to stakeholders, defined new insights for upcoming products, resulting in a 30% increase in sales. (Excel, Microsoft Office, Power BI)
+   - Identified and analyzed customer engagement and behavior, and potential markets to defined marketing strategies, increased the number of engaged accounts by **40%**. Contributed in **collecting data** and evaluation by conducting customer surveys.
+   - Manage business processes and responsible for every processes and operations from basic (design) to end customers. Manage supply chain by collaborating with suppliers, vendors, managing inventory, shipping and delivery.
+   - Contact with people and suppliers from other region, conduct **research and analyses** in order to defining new materials and technologies for new product developments and existing **product upgrades**.
+   - Responsible for manage the purchasing contracts with vendor and participate in the negotiation in order to negotiate **cost reduction**.
 #### 3. [Telkom Indonesia](https://telkom.co.id) | UI/UX Designer | Bandung `2021`
-   - Conducted research using survey and interviews with users, collaborate with stakeholders and colleagues to defining business solution.
-   - Contributed to creating user interface design for web applications based on research in user needs (Figma, Adobe).
+   - Collaborated with stakeholders to understand user needs and objectives, conducted research and analysis using surveys and interviews. Presented findings through effective communication to define solution and gain insights supporting decision-making.
+   - Designed and implemented web application interfaces and layouts based on analysis and research in user needs, and communicated design outcomes to stakeholders for feedback and approval.
 
 ---
 
